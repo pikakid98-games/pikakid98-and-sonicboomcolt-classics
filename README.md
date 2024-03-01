@@ -4,9 +4,9 @@ A compilation of Pikakid98 Classic Game Collection and SonicboomColt Classics in
 
 ### <b><u>Games</b></u>
 
-Cave Of The Dead
+Cave Of The Dead (v1.0)
 \
-The Legend Of Zelda: Sword Of Destiny
+The Legend Of Zelda: Sword Of Destiny (v1.0)
 \
 Pikakid98 Studios Game Gallery
 \
