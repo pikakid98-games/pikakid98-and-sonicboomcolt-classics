@@ -1,6 +1,6 @@
 # Pikakid98 & SonicboomColt Classics
 
-A compilation of Pikakid98 Classic Game Collection and SonicboomColt Classics included in Collection Of Collections
+A compilation of Pikakid98 Classic Game Collection and SonicboomColt Classics
 
 ### <b><u>Games</b></u>
 
