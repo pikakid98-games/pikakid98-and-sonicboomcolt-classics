@@ -18,7 +18,7 @@ RobotKiller (By SonicboomColt)
 \
 Minecraft 2D (By SonicboomColt)
 \
-Techron
+[Techron](https://github.com/pikakid98-games/Techron)
 
 ### <b><u>Building requirements</b></u>
 
